@@ -1,7 +1,5 @@
 # ramdom_user
-apres avoir ouvert le projet dans la ligne de commande taper 
->>flutter clean  ensuite
->>flutter pub get 
+apres avoir ouvert le projet dans la ligne de commande taper flutter clean  ensuite flutter pub get 
 
 A new Flutter project.
 
